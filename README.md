@@ -4,9 +4,9 @@
 
 [My CV at habr.com](https://career.habr.com/silksherstkaw)
 
-- 🔭 I’m currently doing master's degree at HSE (Computational linguistics)
+- 👩🏻‍🎓 I’m currently doing master's degree at HSE (Computational linguistics)
 
-- 🌱 I’m currently learning...
+- 📚 I’m currently learning...
   - *Natural Language Processing (NLP)*
   - *Data analytics*
     
@@ -14,4 +14,4 @@
   - *[telegram](https://career.habr.com/silksherstkaw](https://telegram.me/silksherstka))*
   - *[email](silksherstkaw@yandex.ru)*
     
-- ⚡ Fun fact: I like figure skating 
+- ⚡ Fun fact: I like figure skating
